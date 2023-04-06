@@ -4,7 +4,7 @@ UiLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KATTM1/KobyUi
 ```
 ## Make Window
 ```lua
-local Library = Update:Window("KOBY 2 UI","",Enum.KeyCode.RightControl);
+local Library = Update:XXIXI("KOBY 2 UI","",Enum.KeyCode.RightControl);
 ```
 ## Create Tab
 ```lua
