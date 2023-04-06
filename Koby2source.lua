@@ -59,7 +59,7 @@ end
 
 local Update = {}
 
-function Update:Window(text,hubname,logo,keybind)
+function Update:Window(text,logo,keybind)
 	local uihide = false
 	local abc = false
 	local logo = logo or 0
@@ -126,7 +126,7 @@ function Update:Window(text,hubname,logo,keybind)
 	Hub.Position = UDim2.new(0, 110, 0, 0)
 	Hub.Size = UDim2.new(0, 81, 0, 27)
 	Hub.Font = Enum.Font.GothamSemibold
-	Hub.Text = hubname
+	Hub.Text = ""
 	Hub.TextColor3 = _G.Color
 	Hub.TextSize = 17.000
 	Hub.TextXAlignment = Enum.TextXAlignment.Left
