@@ -1,6 +1,6 @@
 ## Booting Ui 
 ```lua
-examolekk
+UiLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KATTM1/KobyUiProject/main/Koby2source.lua", true))();loadstring(UiLib)()
 ```
 ## Make Window
 ```lua
