@@ -1,11 +1,6 @@
 ## Install Library
 ```lua
-function InstallLibraries(str)
-loadstring(str)()
-end
-UiLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KATTM1/KobyUiProject/main/UiLoader.lua", true))()
-InstallLibraries(UiLib)
-local win = KOBY117:Window([[]])
+UiLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KATTM1/KobyUiProject/main/UiLoader.lua", true))();loadstring(UiLib)();local win = KOBY117:Window([[]])
 ```
 ## Make Window
 ```lua
