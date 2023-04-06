@@ -1,8 +1,7 @@
 ## Install Library
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KATTM1/KobyUiProject/main/UiLoader.lua", true))()
-KOBY117 = KOBYUI
-local win = KOBY117:Window("Koby-Window")
+local win = KOBYUI:Window("Koby-Window")
 ```
 ## Make Window
 ```lua
