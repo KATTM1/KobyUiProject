@@ -59,7 +59,7 @@ end
 
 local Update = {}
 
-function Update:Window(text,logo,keybind)
+function Update:XXIXI(text,logo,keybind)
 	local uihide = false
 	local abc = false
 	local logo = logo or 0
