@@ -1,4 +1,4 @@
-local KOBY117 = {}
+KOBYUI = {}
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
