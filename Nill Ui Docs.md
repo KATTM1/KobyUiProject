@@ -4,7 +4,7 @@ uilib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KATTM1/UiLibP
 ```
 ## Make Window
 ```lua
-Serv = Brocket:Server("SOME X HUB",8521503225)
+Serv = Brocket:Server("Nill UI",8521503225)
 ```
 ## Create Tab
 ```lua
