@@ -1,7 +1,7 @@
-return [[local TweenService = game:GetService("TweenService")
+return [[
+local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
-local Dino = {}
-
+Dino = {} 
 function Dino:CreateWindow(hubnm1,hubnm2,dinotitle)
     local DinoUI = Instance.new("ScreenGui")
     local Window = Instance.new("Frame")
