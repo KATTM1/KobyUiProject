@@ -1,6 +1,6 @@
 ## Booting Ui
 ```lua
-UiLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KATTM1/KobyUiProject/main/DinoSource", true))();loadstring(UiLib)()
+UiLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KATTM1/KobyUiProject/main/DinoSource.lua", true))();loadstring(UiLib)()
 ```
 ## Make window
 ```lua
