@@ -1,6 +1,6 @@
 ## Booting Ui
 ```lua
-uilib = loadstring(game:HttpGet("", true))();loadstring(uilib)();Brocket = nill:Window([[]]);
+uilib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KATTM1/UiLibProject/main/NillSource.lua", true))();loadstring(uilib)();Brocket = nill:Window([[]]);
 ```
 ## Make Window
 ```lua
