@@ -1,6 +1,6 @@
 ## Booting Ui
 ```lua
-UiLoader = loadstring(game:HttpGet("", true))();loadstring(UiLoader)()
+UiLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/KATTM1/UiLibProject/main/ChernobylSource.lua", true))();loadstring(UiLoader)()
 ```
 ## Make Window
 ```lua
