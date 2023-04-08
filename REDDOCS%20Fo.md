@@ -1,6 +1,6 @@
 ## Booting Ui
 ```lua
-uilib = loadstring(game:HttpGet("", true))();loadstring(uilib)()
+uilib = loadstring(game:HttpGet("https://raw.githubusercontent.com/KATTM1/UiLibProject/main/REDSOURCES%2520Fo.lua", true))();loadstring(uilib)()
 ```
 ## Create window
 ```lua
